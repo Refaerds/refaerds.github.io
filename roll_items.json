@@ -10,7 +10,7 @@
             "name": "", 
             "type": "", 
             "description": "Failed roll", 
-            "level": NaN, 
+            "level": "NaN", 
             "physical_damage": 0, 
             "magical_damage": 0, 
             "defense": 0, 
