@@ -279,40 +279,40 @@
     "normal_materials": {
         "5": {
             "description": ", balanced, made of normal materials", 
-            "physical_damage": +1
+            "physical_damage": 1
         },
         "15": {
             "description": ", improved, made of normal materials", 
-            "physical_damage": +2
+            "physical_damage": 2
         },
         "21": {
             "description": ", treated, made of normal materials", 
-            "physical_damage": +3
+            "physical_damage": 3
         },
         "35": {
             "description": ", reinforced, made of normal materials", 
-            "physical_damage": +4
+            "physical_damage": 4
         },
         "41": {
             "description": ", hardened, made of normal materials", 
-            "physical_damage": +5
+            "physical_damage": 5
         }
     },
     "superior_materials": {
         "7": {
             "description": ", mastercraft, made of superior materials", 
-            "physical_damage": +5,
-            "magical_damage": +2
+            "physical_damage": 5,
+            "magical_damage": 2
         },
         "21": {
             "description": ", Seracleean craft, made of superior materials", 
-            "physical_damage": +6,
-            "magical_damage": +3
+            "physical_damage": 6,
+            "magical_damage": 3
         }, 
         "41": {
             "description": ", Reinmar craft, made of superior materials", 
-            "physical_damage": +7,
-            "magical_damage": +4
+            "physical_damage": 7,
+            "magical_damage": 4
         }
     },
     "relationship": {
